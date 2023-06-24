@@ -5,3 +5,4 @@ z*
 # ignore all top level directory name "artifacts"
 /artifacts/
 #node_modules/
+file_with_sensitive_data
